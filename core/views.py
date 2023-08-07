@@ -1,7 +1,7 @@
 from django.shortcuts import render, redirect
 from item.models import Category, Item
 
-# 1:09:29 https://www.youtube.com/watch?v=ZxMB6Njs3ck
+# 1:36:56 https://www.youtube.com/watch?v=ZxMB6Njs3ck
 
 from .forms import SignupForm
 
